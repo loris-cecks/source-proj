@@ -3,3 +3,5 @@ yt-*/
 token*
 *.txt
 client_secrets.json
+*.yaml
+__pycache__/
