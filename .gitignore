@@ -1,0 +1,5 @@
+yt-*/
+.env
+token*
+*.txt
+client_secrets.json
