@@ -5,3 +5,9 @@ token*
 client_secrets.json
 *.yaml
 __pycache__/
+*.pyc
+_*
+*pycache*
+
+
+
